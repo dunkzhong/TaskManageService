@@ -6,7 +6,11 @@
 
     <groupId>com.dunkzhong</groupId>
     <artifactId>task-manage-root</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>service</module>
+    </modules>
 
 
 </project>
